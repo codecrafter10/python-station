@@ -1,2 +1,14 @@
-# python-station
-A collection of my best Python projects including a blockchain-based exam security system, air quality monitor, ML-powered food detector, attendance calculator &amp; fun Pygame apps. Built to solve real problems with clean code and smart tech. 📧 zaidali.za2635@gmail.com
+# {{cookiecutter.project_name}}
+
+## Setup
+```sh
+# Install dependencies
+pipenv install --dev
+
+# Setup pre-commit and pre-push hooks
+pipenv run pre-commit install -t pre-commit
+pipenv run pre-commit install -t pre-push
+```
+
+## Credits
+This package was created with Cookiecutter and the [sourcery-ai/python-best-practices-cookiecutter](https://github.com/sourcery-ai/python-best-practices-cookiecutter) project template.
