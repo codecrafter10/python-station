@@ -1,0 +1,72 @@
+# 🐍 Zaid Ali's Best Python Projects
+
+Welcome to my curated collection of Python projects! Each project reflects my passion for solving real-world problems, building useful applications, and exploring the power of Python. All repositories are clean, well-documented, and beginner-friendly.
+
+---
+
+## 📌 Featured Projects
+
+### 1. 🔐 **Leak Blocker – Question Paper Leakage Detection System**
+A blockchain-based secure question paper distribution system to prevent leaks in educational institutions.
+
+- 🔧 Tech: Python, Flask, Hyperledger Fabric
+- 📦 Features: Encryption, Blockchain logging, User authentication
+- 📁 Repo: [Leak Blocker](https://github.com/zaidali2635/leak-blocker)
+
+---
+
+### 2. 📊 **Air Quality Monitoring System**
+Monitors air pollution levels using the MQ135 sensor and displays real-time data with alert systems.
+
+- 🔧 Tech: Python, Arduino, Serial, Tkinter
+- 🌐 Features: Real-time data, LCD integration, alerts, and graphs
+- 📁 Repo: [Air Quality Monitor](https://github.com/zaidali2635/air-quality-monitor)
+
+---
+
+### 3. 🎮 **Python Game Collection**
+A collection of mini-games built using Pygame to showcase animation, logic, and UI skills.
+
+- 🎮 Games Included: Snake, Tic Tac Toe, Pong, and more
+- 🔧 Tech: Python, Pygame
+- 📁 Repo: [Python Games](https://github.com/zaidali2635/python-game-collection)
+
+---
+
+### 4. 📦 **Spoiled Food Detection System**
+A smart application that uses machine learning to detect the freshness of food.
+
+- 🧠 Tech: Python, TensorFlow, OpenCV
+- 📱 Features: Image analysis, food classification, freshness prediction
+- 📁 Repo: [Food Detection](https://github.com/zaidali2635/spoiled-food-detector)
+
+---
+
+### 5. 📅 **Attendance Calculator App**
+Helps students calculate minimum required attendance to avoid detention.
+
+- 📐 Tech: Python, Tkinter
+- 🔢 Features: Smart input, real-time calculations, alerts
+- 📁 Repo: [Attendance App](https://github.com/zaidali2635/attendance-calculator)
+
+---
+
+## 🧑‍💻 About Me
+
+**Zaid Ali**  
+B.Tech – Computer Science and Engineering | PSIT, Kanpur  
+Passionate Python Developer | Frontend Specialist | IoT & Blockchain Enthusiast  
+
+📧 Email: [zaidali.za2635@gmail.com](mailto:zaidali.za2635@gmail.com)  
+📞 Phone: +91 7275591869  
+🔗 LinkedIn: [linkedin.com/in/zaidali2635](https://linkedin.com/in/zaidali2635)  
+💻 GitHub: [github.com/zaidali2635](https://github.com/zaidali2635)
+
+---
+
+## 🤝 Let's Connect
+
+If you like my work or want to collaborate on innovative Python-based projects, feel free to reach out!
+
+---
+
